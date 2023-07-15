@@ -1,6 +1,6 @@
 # Table of contents
 
-* [英美商业宝典](README.md)
+* [欧美商业宝典](README.md)
 
 ## 美国篇 <a href="#usa" id="usa"></a>
 
